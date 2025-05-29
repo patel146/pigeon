@@ -8,4 +8,3 @@ echo "Activating virtual environment..."
 . ./venv/bin/activate
 
 pip install -r requirements.txt
-echo "✅ Dependencies installed."
